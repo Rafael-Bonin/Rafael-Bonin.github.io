@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color:#0FA36B;
+  }
+  h1 {
+    font-family:monospace;
+    margin-top: 30px;
+  }
+  p {
+    font-family: serif;
+    font-style:italic;
+  }
+  .fonte19px {
+    font-size: 19px;
+  }
+  .fonte17px {
+    font-size: 17px;
+  }
+
+  .fotominha {
+      border-radius: 50%;
+  }
+
+  .centro {
+      text-align: center;
+  }
