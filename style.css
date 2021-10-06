@@ -1,40 +1,69 @@
-div {
-    border: 1px solid white;
-}
+
 
 * {
-    margin: 0;
-    padding: 0;
-    border: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 body {
-    background-color:#0FA36B;
-  }
-  h1 {
-    font-family:monospace;
-    padding-top: 30px;
-    padding-bottom: 15px;
-    background-color: rgb(3, 53, 3);
-    color: blanchedalmond;
-  }
-  p {
-    font-family: serif;
-    font-style:italic;
-  }
-  .fonte19px {
-    font-size: 19px;
-  }
-  .fonte17px {
-    font-size: 17px;
-  }
+  background-color: #0c744cc7;
+}
 
-  #minhafoto {
-      border-radius: 50%;
-      padding: 15px;
-      background-color:darkgreen;
-  }
+h1 {
+  font-family: monospace;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #A6E1FA;
+}
 
-  .centro {
-      text-align: center;
-  }
+#minhafoto {
+  border-radius: 50%;
+  padding: 15px;
+  background-color:#0A1128;
+}
+
+.centro {
+  text-align: center;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.tamanho {
+  width: 33%;
+}
+
+.softskills {
+  list-style-type: none;
+}
+
+.softskillsw {
+  line-height: 60px;
+}
+
+.hardskills {
+  line-height: 60px;
+  list-style-type: none;
+}
+
+.hardskillsw {
+  vertical-align: top;
+  padding-bottom: 61px;
+  background-color: #63c9a2;
+}
+
+p {
+  margin-top: 50px;
+}
+
+.corsoft {
+  background-color: #63c9a2;
+  vertical-align: top;
+  padding-bottom: 1px;
+}
+
+.bgfoto {
+  background-color: #0FA36B;
+}
